@@ -1,0 +1,2 @@
+# KRTeoriaGrafov
+Вариантт 7
